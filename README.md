@@ -1,2 +1,2 @@
 # TEST_2
-Just a test repo
+Adding developer a story
